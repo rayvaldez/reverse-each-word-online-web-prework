@@ -5,4 +5,5 @@ def reverse_each_word(string)
     rev.reverse!
   end
   array
+  array.join(" ")
 end
